@@ -1,3 +1,3 @@
 # rect-bounty
 
-Reward the testers of SANDBOX.RECT.ART
+The Rewards for the testers of [RECT.ART](SANDBOX.RECT.ART)
